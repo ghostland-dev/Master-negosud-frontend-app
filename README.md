@@ -50,3 +50,11 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fnegosud-frontend&root-directory=NegosudClient)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+The app lives in the `NegosudClient` folder, which the button sets as the Vercel root directory.
